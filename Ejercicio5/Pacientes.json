@@ -1,0 +1,45 @@
+{
+    "__class__": "ManejaPaciente",
+    "Elementos": [
+        {
+            "__class__": "Paciente",
+            "__atributos__": {
+                "peso": 80.0,
+                "nom": "Juan",
+                "apellido": "Perez",
+                "alt": 177,
+                "tel": "2645558889"
+            }
+        },
+        {
+            "__class__": "Paciente",
+            "__atributos__": {
+                "peso": 40.0,
+                "nom": "Juanito",
+                "apellido": "Gomez",
+                "alt": 165,
+                "tel": "2648889999"
+            }
+        },
+        {
+            "__class__": "Paciente",
+            "__atributos__": {
+                "peso": 55.0,
+                "nom": "Perez",
+                "apellido": "Sandra",
+                "alt": 150,
+                "tel": "2647776666"
+            }
+        },
+        {
+            "__class__": "Paciente",
+            "__atributos__": {
+                "peso": 72.0,
+                "nom": "Eduardo",
+                "apellido": "Flores",
+                "alt": 177,
+                "tel": "2645304336"
+            }
+        }
+    ]
+}

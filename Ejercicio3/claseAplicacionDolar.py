@@ -12,7 +12,6 @@ class AplicacionDolar:
         self.__dolarventa = self.consulta()
         self.__ventana = Tk()
         self.__ventana.title('Conversor de moneda')
-        self.__ventana.geometry('400x300')
         self.__dolares = StringVar()
         self.__pesos = StringVar()
 
